@@ -21,6 +21,6 @@ robot SNS_AutomatedTC1.robot
 ```
 
 ## Links
-https://robotframework.org/
-https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
-https://chromedriver.chromium.org/downloads
+* https://robotframework.org/
+* https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+* https://chromedriver.chromium.org/downloads
